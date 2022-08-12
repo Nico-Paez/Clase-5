@@ -1,6 +1,4 @@
 gdfhgfjhhgmkg
-<<<<<<< HEAD
+
 nueva actualizacion nnnnnnnnnnn 
-=======
-niconiconiconico
->>>>>>> 1e33dfe7a46d7f24ce14cc2e9ad1846dcfc95bba
+
